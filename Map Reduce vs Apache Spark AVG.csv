@@ -1,0 +1,6 @@
+Query,Apache_Spark_Time(s),Hadoop_MapReduce_Time(s)
+1,3.377,8.25
+2,0.341,6.8
+3,0.308,6.6694
+4,0.2594,6.405
+5,0.2226,6.965
